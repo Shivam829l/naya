@@ -34,3 +34,9 @@ let score = {
     ankit: 57,
     shyam:52
 }
+
+let score = {
+    shivam: 95,
+    ankit: 57,
+    shyam:52
+}
