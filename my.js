@@ -14,4 +14,8 @@ let amit = {
 
 console.log(amit);
 
-
+let college = {
+    department: "Computer Science",
+    students: 500,
+    location: "New York"    
+}
