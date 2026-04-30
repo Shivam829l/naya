@@ -21,3 +21,10 @@ function division(a, b) {
 console.log(multiply(5, 3)); // returns 15
 console.log(division(5, 3)); // returns 1
 
+
+let results = {
+    shivam: "passed",
+    ankit: "failed",
+    rohit: "passed"
+    
+}
