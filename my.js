@@ -7,3 +7,11 @@ let aayush = {
 
 }
 console.log(aayush.profession + aayush.age);
+
+let amit = {
+    name: "Amit lodha";
+}
+
+console.log(amit);
+
+
