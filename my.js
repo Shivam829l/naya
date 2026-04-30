@@ -28,3 +28,9 @@ let results = {
     rohit: "passed"
     
 }
+
+let score = {
+    shivam: 95,
+    ankit: 57,
+    shyam:52
+}
